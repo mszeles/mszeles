@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miki Szeles</h1>
-<h3 align="center">I am enthusiastic software developer since my childhood. I work as a Senior Full Stack Software Engineer in Test (SDET) using Karate DSL and Selenide.</h3>
+<h3 align="center">I am enthusiastic software developer since my childhood. I work as a Senior Software Engineer in Test (SDET) using Karate DSL and Selenide.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mszeles&label=Profile%20views&color=0e75b6&style=flat" alt="mszeles" /> </p>
 
