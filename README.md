@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently working on [ADAMOS Marketplace](https://www.adamos.com/en/)
 
-- 🌱 I’m currently learning **performance testing and Gatling**
-
 - 👯 I’m contributing to the the open-source community via [Selenideium Element Inspector](https://mszeles.com/selenium-javascript-python-c-cypress-testcafe-playwright-squish-selector-generation-has-been-added-to-selenideium-element-inspector-v20)
 
-- 🤝And also with test automation frameworks [Selenium, Appium, RestAssured, Protractor](https://github.com/mszeles)
+- 🤝And also with test automation framework templates [Selenium, Appium, RestAssured, Protractor](https://github.com/mszeles)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mszeles](https://github.com/mszeles)
 
